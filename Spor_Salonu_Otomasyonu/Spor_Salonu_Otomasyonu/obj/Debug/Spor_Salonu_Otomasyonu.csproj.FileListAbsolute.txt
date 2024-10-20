@@ -1,0 +1,83 @@
+C:\Users\samet\Documents\Otomasyon gerekli dosyalar\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\bin\Debug\Spor_Salonu_Otomasyonu.exe.config
+C:\Users\samet\Documents\Otomasyon gerekli dosyalar\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\bin\Debug\Spor_Salonu_Otomasyonu.exe
+C:\Users\samet\Documents\Otomasyon gerekli dosyalar\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\bin\Debug\Spor_Salonu_Otomasyonu.pdb
+C:\Users\samet\Documents\Otomasyon gerekli dosyalar\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\bin\Debug\Guna.UI2.dll
+C:\Users\samet\Documents\Otomasyon gerekli dosyalar\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\obj\Debug\Spor_Salonu_Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\samet\Documents\Otomasyon gerekli dosyalar\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\obj\Debug\Spor_Salonu_Otomasyonu.Properties.Resources.resources
+C:\Users\samet\Documents\Otomasyon gerekli dosyalar\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\obj\Debug\Spor_Salonu_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\samet\Documents\Otomasyon gerekli dosyalar\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\obj\Debug\Spor_Salonu_Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\samet\Documents\Otomasyon gerekli dosyalar\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\obj\Debug\Spor_Salonu_Otomasyonu.csproj.CopyComplete
+C:\Users\samet\Documents\Otomasyon gerekli dosyalar\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\obj\Debug\Spor_Salonu_Otomasyonu.exe
+C:\Users\samet\Documents\Otomasyon gerekli dosyalar\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\obj\Debug\Spor_Salonu_Otomasyonu.pdb
+C:\Users\samet\Documents\Otomasyon gerekli dosyalar\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\obj\Debug\Spor_Salonu_Otomasyonu.Giris_Ekrani.resources
+C:\Users\samet\Documents\Otomasyon gerekli dosyalar\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\bin\Debug\Bunifu.Licensing.dll
+C:\Users\samet\Documents\Otomasyon gerekli dosyalar\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\bin\Debug\Bunifu.UI.WinForms.dll
+C:\Users\samet\Documents\Otomasyon gerekli dosyalar\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\samet\Documents\Otomasyon gerekli dosyalar\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\obj\Debug\Spor_Salonu_Otomasyonu.Ana_Sayfa.resources
+C:\Users\samet\Documents\Otomasyon gerekli dosyalar\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\obj\Debug\Spor_Salonu_Otomasyonu.Uye_Ekle.resources
+C:\Users\samet\Documents\Otomasyon gerekli dosyalar\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\obj\Debug\Spor_Salonu_Otomasyonu.Uye_Listele.resources
+C:\Users\samet\Documents\Otomasyon gerekli dosyalar\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\obj\Debug\Spor_Salonu_Otomasyonu.Uye_Sil.resources
+C:\Users\samet\Documents\Otomasyon gerekli dosyalar\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\obj\Debug\Spor_Salonu_Otomasyonu.Uye_Guncelle.resources
+C:\Users\LAB\Desktop\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\bin\Debug\Spor_Salonu_Otomasyonu.exe.config
+C:\Users\LAB\Desktop\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\bin\Debug\Spor_Salonu_Otomasyonu.exe
+C:\Users\LAB\Desktop\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\bin\Debug\Spor_Salonu_Otomasyonu.pdb
+C:\Users\LAB\Desktop\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\bin\Debug\Bunifu.Licensing.dll
+C:\Users\LAB\Desktop\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\bin\Debug\Bunifu.UI.WinForms.dll
+C:\Users\LAB\Desktop\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\bin\Debug\Guna.UI2.dll
+C:\Users\LAB\Desktop\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\LAB\Desktop\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\obj\Debug\Spor_Salonu_Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\LAB\Desktop\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\obj\Debug\Spor_Salonu_Otomasyonu.Ana_Sayfa.resources
+C:\Users\LAB\Desktop\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\obj\Debug\Spor_Salonu_Otomasyonu.Giris_Ekrani.resources
+C:\Users\LAB\Desktop\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\obj\Debug\Spor_Salonu_Otomasyonu.Properties.Resources.resources
+C:\Users\LAB\Desktop\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\obj\Debug\Spor_Salonu_Otomasyonu.Uye_Ara.resources
+C:\Users\LAB\Desktop\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\obj\Debug\Spor_Salonu_Otomasyonu.Uye_Ekle.resources
+C:\Users\LAB\Desktop\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\obj\Debug\Spor_Salonu_Otomasyonu.Uye_Guncelle.resources
+C:\Users\LAB\Desktop\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\obj\Debug\Spor_Salonu_Otomasyonu.Uye_Listele.resources
+C:\Users\LAB\Desktop\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\obj\Debug\Spor_Salonu_Otomasyonu.Uye_Sil.resources
+C:\Users\LAB\Desktop\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\obj\Debug\Spor_Salonu_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\LAB\Desktop\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\obj\Debug\Spor_Salonu_Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\LAB\Desktop\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\obj\Debug\Spor_Salonu_Otomasyonu.csproj.CopyComplete
+C:\Users\LAB\Desktop\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\obj\Debug\Spor_Salonu_Otomasyonu.exe
+C:\Users\LAB\Desktop\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\obj\Debug\Spor_Salonu_Otomasyonu.pdb
+C:\Users\Samet Eyüboğlu\Documents\Projeler\Otomasyon gerekli dosyalar\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\bin\Debug\Spor_Salonu_Otomasyonu.exe.config
+C:\Users\Samet Eyüboğlu\Documents\Projeler\Otomasyon gerekli dosyalar\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\bin\Debug\Spor_Salonu_Otomasyonu.exe
+C:\Users\Samet Eyüboğlu\Documents\Projeler\Otomasyon gerekli dosyalar\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\bin\Debug\Spor_Salonu_Otomasyonu.pdb
+C:\Users\Samet Eyüboğlu\Documents\Projeler\Otomasyon gerekli dosyalar\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Samet Eyüboğlu\Documents\Projeler\Otomasyon gerekli dosyalar\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\bin\Debug\Bunifu.UI.WinForms.dll
+C:\Users\Samet Eyüboğlu\Documents\Projeler\Otomasyon gerekli dosyalar\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\bin\Debug\Guna.UI2.dll
+C:\Users\Samet Eyüboğlu\Documents\Projeler\Otomasyon gerekli dosyalar\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\Samet Eyüboğlu\Documents\Projeler\Otomasyon gerekli dosyalar\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\obj\Debug\Spor_Salonu_Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\Samet Eyüboğlu\Documents\Projeler\Otomasyon gerekli dosyalar\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\obj\Debug\Spor_Salonu_Otomasyonu.Ana_Sayfa.resources
+C:\Users\Samet Eyüboğlu\Documents\Projeler\Otomasyon gerekli dosyalar\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\obj\Debug\Spor_Salonu_Otomasyonu.Giris_Ekrani.resources
+C:\Users\Samet Eyüboğlu\Documents\Projeler\Otomasyon gerekli dosyalar\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\obj\Debug\Spor_Salonu_Otomasyonu.Properties.Resources.resources
+C:\Users\Samet Eyüboğlu\Documents\Projeler\Otomasyon gerekli dosyalar\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\obj\Debug\Spor_Salonu_Otomasyonu.Uye_Ara.resources
+C:\Users\Samet Eyüboğlu\Documents\Projeler\Otomasyon gerekli dosyalar\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\obj\Debug\Spor_Salonu_Otomasyonu.Uye_Ekle.resources
+C:\Users\Samet Eyüboğlu\Documents\Projeler\Otomasyon gerekli dosyalar\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\obj\Debug\Spor_Salonu_Otomasyonu.Uye_Guncelle.resources
+C:\Users\Samet Eyüboğlu\Documents\Projeler\Otomasyon gerekli dosyalar\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\obj\Debug\Spor_Salonu_Otomasyonu.Uye_Listele.resources
+C:\Users\Samet Eyüboğlu\Documents\Projeler\Otomasyon gerekli dosyalar\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\obj\Debug\Spor_Salonu_Otomasyonu.Uye_Sil.resources
+C:\Users\Samet Eyüboğlu\Documents\Projeler\Otomasyon gerekli dosyalar\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\obj\Debug\Spor_Salonu_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\Samet Eyüboğlu\Documents\Projeler\Otomasyon gerekli dosyalar\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\obj\Debug\Spor_Salonu_Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Samet Eyüboğlu\Documents\Projeler\Otomasyon gerekli dosyalar\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\obj\Debug\Spor_Salonu_Otomasyonu.csproj.CopyComplete
+C:\Users\Samet Eyüboğlu\Documents\Projeler\Otomasyon gerekli dosyalar\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\obj\Debug\Spor_Salonu_Otomasyonu.exe
+C:\Users\Samet Eyüboğlu\Documents\Projeler\Otomasyon gerekli dosyalar\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\obj\Debug\Spor_Salonu_Otomasyonu.pdb
+C:\Users\Samet Eyuboglu\Documents\Projeler\Otomasyon gerekli dosyalar\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\bin\Debug\Spor_Salonu_Otomasyonu.exe.config
+C:\Users\Samet Eyuboglu\Documents\Projeler\Otomasyon gerekli dosyalar\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\bin\Debug\Spor_Salonu_Otomasyonu.exe
+C:\Users\Samet Eyuboglu\Documents\Projeler\Otomasyon gerekli dosyalar\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\bin\Debug\Spor_Salonu_Otomasyonu.pdb
+C:\Users\Samet Eyuboglu\Documents\Projeler\Otomasyon gerekli dosyalar\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Samet Eyuboglu\Documents\Projeler\Otomasyon gerekli dosyalar\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\bin\Debug\Bunifu.UI.WinForms.dll
+C:\Users\Samet Eyuboglu\Documents\Projeler\Otomasyon gerekli dosyalar\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\bin\Debug\Guna.UI2.dll
+C:\Users\Samet Eyuboglu\Documents\Projeler\Otomasyon gerekli dosyalar\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\Samet Eyuboglu\Documents\Projeler\Otomasyon gerekli dosyalar\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\obj\Debug\Spor_Salonu_Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\Samet Eyuboglu\Documents\Projeler\Otomasyon gerekli dosyalar\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\obj\Debug\Spor_Salonu_Otomasyonu.Ana_Sayfa.resources
+C:\Users\Samet Eyuboglu\Documents\Projeler\Otomasyon gerekli dosyalar\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\obj\Debug\Spor_Salonu_Otomasyonu.Giris_Ekrani.resources
+C:\Users\Samet Eyuboglu\Documents\Projeler\Otomasyon gerekli dosyalar\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\obj\Debug\Spor_Salonu_Otomasyonu.Properties.Resources.resources
+C:\Users\Samet Eyuboglu\Documents\Projeler\Otomasyon gerekli dosyalar\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\obj\Debug\Spor_Salonu_Otomasyonu.Uye_Ara.resources
+C:\Users\Samet Eyuboglu\Documents\Projeler\Otomasyon gerekli dosyalar\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\obj\Debug\Spor_Salonu_Otomasyonu.Uye_Ekle.resources
+C:\Users\Samet Eyuboglu\Documents\Projeler\Otomasyon gerekli dosyalar\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\obj\Debug\Spor_Salonu_Otomasyonu.Uye_Guncelle.resources
+C:\Users\Samet Eyuboglu\Documents\Projeler\Otomasyon gerekli dosyalar\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\obj\Debug\Spor_Salonu_Otomasyonu.Uye_Listele.resources
+C:\Users\Samet Eyuboglu\Documents\Projeler\Otomasyon gerekli dosyalar\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\obj\Debug\Spor_Salonu_Otomasyonu.Uye_Sil.resources
+C:\Users\Samet Eyuboglu\Documents\Projeler\Otomasyon gerekli dosyalar\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\obj\Debug\Spor_Salonu_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\Samet Eyuboglu\Documents\Projeler\Otomasyon gerekli dosyalar\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\obj\Debug\Spor_Salonu_Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Samet Eyuboglu\Documents\Projeler\Otomasyon gerekli dosyalar\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\obj\Debug\Spor_Salonu_Otomasyonu.csproj.CopyComplete
+C:\Users\Samet Eyuboglu\Documents\Projeler\Otomasyon gerekli dosyalar\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\obj\Debug\Spor_Salonu_Otomasyonu.exe
+C:\Users\Samet Eyuboglu\Documents\Projeler\Otomasyon gerekli dosyalar\Spor_Salonu_Otomasyonu\Spor_Salonu_Otomasyonu\obj\Debug\Spor_Salonu_Otomasyonu.pdb
